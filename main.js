@@ -16,5 +16,6 @@ say.sayHello();
 
 show.showOne();
 show.showTwo();
+show.showThree();
 
 login.login();
